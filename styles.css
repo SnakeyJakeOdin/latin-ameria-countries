@@ -1,1 +1,19 @@
 /* styles.css */
+
+.title {
+  color: white;
+  font-size: 36px;
+  text-align: center;
+}
+
+.brazil {
+  background-color: rgb(43,149,71);
+}
+
+.mexico {
+  background-color: rgb(160,104,40);
+}
+
+.colombia {
+  background-color: rgb(247,199,1);
+}
