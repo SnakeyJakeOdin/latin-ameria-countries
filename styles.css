@@ -4,6 +4,8 @@
   color: white;
   font-size: 36px;
   text-align: center;
+  /* black shadow around text */
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 .brazil {
   background-color: rgb(43,149,71);
